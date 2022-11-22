@@ -88,4 +88,7 @@ class ResetPassword extends Notification
             //
         ];
     }
+
+
+    // Create new funtion
 }
